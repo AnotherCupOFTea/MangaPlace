@@ -478,7 +478,7 @@ a {
 
 .my-modal {
   position: absolute;
-  height: 120px;
+  min-height: 120px;
   width: 270px;
   background-color: rgb(28,28,30);
   border-radius: 10px;
@@ -492,8 +492,9 @@ a {
   align-items: center;
   font-size: 23px;
   margin-top: 10px;
+  padding-bottom: 7px;
   color: rgb(223,213,204);
-  border-bottom: rgb(176, 176, 176);
+  border-bottom: 1px solid rgba(176, 176, 176, 0.5);
 }
 
 .modal-header button {
@@ -520,6 +521,22 @@ a {
   background: rgb(68, 65, 65);
 }
 
+.login-user {
+  background-color: antiquewhite;
+  border-radius: 15px;
+}
+
+.modal-footer {
+  width: 100%;
+  border-top: 1px solid rgba(176, 176, 176, 0.5);
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.rate-btn-active {
+  border: rgb(250, 250, 249) 2px solid;
+}
 
 
 @media screen and (max-width: 600px) {
@@ -535,7 +552,5 @@ a {
   
 }
 
-.login-user {
-  background-color: antiquewhite;
-  border-radius: 15px;
-}
+
+

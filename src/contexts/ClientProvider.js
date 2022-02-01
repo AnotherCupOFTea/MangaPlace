@@ -9,7 +9,7 @@ const Init_State = {
   productDetail: null,
   favorite: null,
   comments: null,
-  rate: null, 
+  rate: null,
 };
 
 const reducer = (state, action) => {
@@ -67,7 +67,7 @@ const ClientProvider = (props) => {
 
   const [posts, setPosts] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
-  const postsPerPage = 12;
+  const postsPerPage = 4;
   useEffect(() => {
     if (state.products) {
       setPosts(state.products);

@@ -1,36 +1,6 @@
 {
   "products": [
     {
-      "name": "Death Note",
-      "description": "Ягами Лайт — образцовый 17-летний выпускник, баллы за экзамены которого находятся в первых строках рейтинга всей Японии. Сидя на уроке, он замечает, что за окном что-то упало. На перемене он поднимает загадочный предмет и им оказывается черная тетрадь с надписью «Тетрадь смерти». Внутри была инструкция по использованию: «Человек, имя которого будет записано в тетради, умрет». Имея свои взгляды на систему наказания, Лайт решает установить собственное правосудие, использовать тетрадь для «очищения» мира от зла — убивать преступников.Когда действия Лайта становятся заметны для мирового правительства, на след неуловимого «Киры» (так мир окрестил нового мессию, решившего искоренить зло на планете) выходит детектив мирового класса, называющий себя «L», который поставил себе цель — разоблачить убийцу.",
-      "type": "manga",
-      "vipPrice": "30",
-      "image": "https://staticlib.me/uploads/cover/desu-noto/cover/5UcB013CNhll_250x350.jpg",
-      "year": "2003",
-      "genres": [
-        "Detective",
-        "Fantasy",
-        "action"
-      ],
-      "rate": [
-        {
-          "rateAvg": 0,
-          "rateAmount": 0,
-          "rateSum": 0
-        }
-      ],
-      "id": 2,
-      "comments": [
-        {
-          "userName": "TheCupOfTea",
-          "comment": "Something",
-          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
-          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
-        }
-      ],
-      "price": 0
-    },
-    {
       "name": "Tokyo Revengers",
       "description": "Жестокая история о 26-летнем парне, что потерял свою единственную девушку в разборке уличных банд и скатился к серой убогой жизни нищего неудачника на подработке без каких-либо планов и перспектив. Но как-то вечером, возвращаясь домой, бедолага угодил под электричку и откатился во времени на 12 лет. А вернувшись в прошлое, он бросает все силы, чтобы войти в среду уличных банд и не дать единственной любви погибнуть.",
       "type": "manga",
@@ -44,12 +14,19 @@
       ],
       "rate": [
         {
-          "rateAvg": 1.6,
-          "rateAmount": 13,
-          "rateSum": 20
+          "rateAvg": 0.8,
+          "rateAmount": 36,
+          "rateSum": 28
         }
       ],
-      "comments": [],
+      "comments": [
+        {
+          "userName": "TheCupOfTea",
+          "comment": "Heello world",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
+          "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        }
+      ],
       "id": 3
     },
     {
@@ -107,31 +84,15 @@
           "comment": "Something",
           "userImg": "https://lh3.googleusercontent.com/a-/AOh14Ggf7puoi1Xa4rOOCSQikX17aUMVFWG4Ls14-M4b=s96-c",
           "userUid": "T48Ncy4IMkRRXYDBf1PP6VBdnyH2"
+        },
+        {
+          "userName": "Айдар Базарбаев",
+          "comment": "ВАОЛДодва",
+          "userImg": "https://lh3.googleusercontent.com/a-/AOh14GjuDaFX4OKq5LE7eRfvpQtm-s-lTlt_aI0tyuoS=s96-c",
+          "userUid": "3f6t8CIszISCnp69FagKw7spT0x2"
         }
       ],
       "id": 6
-    },
-    {
-      "name": "My Hero Academia",
-      "description": "В один прекрасный день на свет начали появляться люди со сверхспособностями, иначе говоря — причудами. Так возникло общество сверхлюдей, где почти у каждого человека была какая-то суперсила. Однако не все использовали ее во имя добра — кое-кто встал на преступную дорожку. Но, к счастью, появились и те, кто готов посвятить себя борьбе со злом! Они будто сошли со страниц комиксов. Со временем эти герои получили официальное одобрение правительства, и с тех пор они стоят на страже порядка! Это история знакомства «беспричудного» мальчика Идзуку Мидории со своим кумиром, легендарным героем Всемогущим, и превращения этого незаметного паренька в самого великого героя в мире. © Азбука-Аттикус",
-      "type": "manga",
-      "vipPrice": "5",
-      "image": "https://staticlib.me/uploads/cover/boku_no_hero_academia/cover/aI6dcRh5Qjah_250x350.jpg",
-      "year": "2014",
-      "genres": [
-        "action"
-      ],
-      "rate": [
-        {
-          "rateAvg": 0,
-          "rateAmount": 0,
-          "rateSum": 0,
-          "uids": []
-        }
-      ],
-      "comments": [],
-      "id": 7,
-      "price": null
     },
     {
       "name": "Jujutsu Kaisen",
@@ -143,9 +104,9 @@
       "genres": [],
       "rate": [
         {
-          "rateAvg": 0,
-          "rateAmount": 0,
-          "rateSum": 0,
+          "rateAvg": 2.6,
+          "rateAmount": 24,
+          "rateSum": 61,
           "uids": []
         }
       ],
@@ -155,10 +116,10 @@
     {
       "name": "OnePunchMan",
       "description": "Манга повествует о молодом человеке по имени Сайтама. Он — герой, обычный герой. Основная его проблема в том, что он вышибает дух из злодеев одним ударом. А это очень скучно…",
-      "type": "manga",
+      "type": "rumanga",
       "vipPrice": "35",
       "image": "https://staticlib.me/uploads/cover/onepunchman/cover/s73jPvhUoEgm_250x350.jpg",
-      "year": "2012",
+      "year": "2099",
       "genres": [],
       "rate": [
         {
@@ -169,7 +130,8 @@
         }
       ],
       "comments": [],
-      "id": 9
+      "id": 9,
+      "price": null
     },
     {
       "name": "One Piece",
@@ -181,14 +143,50 @@
       "genres": [],
       "rate": [
         {
-          "rateAvg": 0,
-          "rateAmount": 0,
-          "rateSum": 0,
+          "rateAvg": 2,
+          "rateAmount": 27,
+          "rateSum": 54,
           "uids": []
         }
       ],
       "comments": [],
       "id": 10
+    },
+    {
+      "name": "fgf",
+      "description": "fg",
+      "type": "manga",
+      "vipPrice": "123",
+      "image": "fg",
+      "year": "fg",
+      "genres": [],
+      "rate": [
+        {
+          "rateAvg": 0,
+          "rateAmount": 0,
+          "rateSum": 0
+        }
+      ],
+      "comments": [],
+      "id": 11
+    },
+    {
+      "name": "lkj",
+      "description": "lkj",
+      "type": "manga",
+      "vipPrice": "123",
+      "image": "kjl",
+      "year": "lkj",
+      "genres": [],
+      "rate": [
+        {
+          "rateAvg": 0,
+          "rateAmount": 0,
+          "rateSum": 0
+        }
+      ],
+      "comments": [],
+      "id": 12
     }
   ]
 }
